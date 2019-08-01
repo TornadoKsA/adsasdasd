@@ -1,3 +1,4 @@
-token = NDYzNzE3NzM3Mzk5ODQ0ODc2.XUKk_w.ooYvjmr15uDW-0Op0pnV0YCHx3A
+token = NDYzNzE3NzM3Mzk5ODQ0ODc2.XUKrgA.Jr0iEatcFG63zuuAiB4garQiWRA
+
 owner = 113156185389092864
 prefix = "!"
